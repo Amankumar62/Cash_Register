@@ -1,0 +1,23 @@
+*{
+
+}
+body{
+   background-color:beige;
+}
+.cash-given{
+display: none;
+}
+.check-button{
+  display: none;
+}
+.container{
+    display:flex;
+    width: 50%;
+    margin: auto;
+    flex-direction: column;
+    width: 50vw;
+    background-color:blanchedalmond;
+    text-align: center;
+    width: 50%;
+
+}
