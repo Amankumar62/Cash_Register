@@ -7,6 +7,9 @@ display: none;
 .check-button{
   display: none;
 }
+td{
+  padding: 0.3rem;
+}
 .container{
     display:flex;
     width: 50%;
@@ -17,4 +20,18 @@ display: none;
     text-align: center;
     width: 50%;
 
+}
+footer a{
+  font-size: large;
+  margin: 0.5rem;
+  text-decoration: none;
+  color: black;
+}
+footer{
+padding: 1rem;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: center;
 }
